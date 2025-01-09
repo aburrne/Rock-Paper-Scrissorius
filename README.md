@@ -1,2 +1,3 @@
 # Rock Paper Scrissor
-This repository is about classic Rock Paper Scrissor game, This repository was taken from [repl](https://replit.com/@avelialem).
+This is a simple program of Phython of the classic Rock, Paper and Scrissor game. 
+This repository was taken from [repl](https://replit.com/@avelialem).
